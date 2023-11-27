@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-my test file
-=======
 my test file
 added second line
 added third line
 sachin is my fav player.
 Brett le fav bowler.
->>>>>>> 3cc0bd1d03bc05513590b8bd4fb248ff3a6681e6
